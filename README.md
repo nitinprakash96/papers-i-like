@@ -15,3 +15,5 @@ This repository is a list of computer science academic papers that I admire and 
 - [Lisp: A language for stratified design](https://dspace.mit.edu/bitstream/handle/1721.1/6064/AIM-986.pdf?sequence=2&isAllowed=y)
 
 - [A History of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
+
+- [Functional Pearl: I am not a Number—I am a Free Variable](https://www.cs.ru.nl/~james/RESEARCH/haskell2004.pdf)
