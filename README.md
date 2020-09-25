@@ -17,3 +17,5 @@ This repository is a list of computer science academic papers that I admire and 
 - [A History of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
 
 - [Functional Pearl: I am not a Number—I am a Free Variable](https://www.cs.ru.nl/~james/RESEARCH/haskell2004.pdf)
+
+- [Tackling the Awkward Squad: monadic input/output, concurrency, exceptions, and foreign-language calls in Haskell](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mark.pdf?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fmarktoberdorf%2Fmark.pdf)
