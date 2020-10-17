@@ -13,7 +13,7 @@ This repository is a list of computer science academic papers that I admire and 
 
 ### Programming languages
 
-Somedays, I just like to understand the ideology behind a language in terms of its design space and compramises it had to be built upon.
+Somedays, I just like to understand the ideology behind a language in terms of its design space and compromises it had to be built upon.
 
 - [Lisp: A language for stratified design](https://dspace.mit.edu/bitstream/handle/1721.1/6064/AIM-986.pdf?sequence=2&isAllowed=y)
 
