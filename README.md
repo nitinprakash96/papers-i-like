@@ -5,6 +5,7 @@ This repository is a list of computer science academic papers that I admire and 
 1. [Language paradigm](#language-paradigm)
 2. [Programming languages](#programming-languages)
 3. [Programming concepts](#programming-concepts)
+4. [Software architecture](#software-architecture)
 
 
 ### Language paradigm
@@ -29,3 +30,10 @@ This section contains paper that introduced or comprehensively laid down concept
 - [Tackling the Awkward Squad: monadic input/output, concurrency, exceptions, and foreign-language calls in Haskell](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mark.pdf?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fmarktoberdorf%2Fmark.pdf)
 
 - [Comprehending Monads](https://ncatlab.org/nlab/files/WadlerMonads.pdf)
+
+
+### Software architecture
+
+Some really helpful papers regarding software architecture and other related patterns.
+
+- [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
