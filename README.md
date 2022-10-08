@@ -31,6 +31,7 @@ This section contains paper that introduced or comprehensively laid down concept
 
 - [Comprehending Monads](https://ncatlab.org/nlab/files/WadlerMonads.pdf)
 
+- [Cache-oblivious Algorithms and Data structures](https://erikdemaine.org/papers/BRICS2002/paper.pdf)
 
 ### Software architecture
 
