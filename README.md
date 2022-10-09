@@ -38,3 +38,5 @@ This section contains paper that introduced or comprehensively laid down concept
 Some really helpful papers regarding software architecture and other related patterns.
 
 - [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
+
+- [Composable Memory Transactions](https://www.microsoft.com/en-us/research/wp-content/uploads/2005/01/2005-ppopp-composable.pdf)
