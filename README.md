@@ -6,7 +6,7 @@ This repository is a list of computer science academic papers that I admire and 
 2. [Programming languages](#programming-languages)
 3. [Programming concepts](#programming-concepts)
 4. [Software architecture](#software-architecture)
-
+5. [Databases](#Databases)
 
 ### Language paradigm
 
@@ -40,3 +40,9 @@ Some really helpful papers regarding software architecture and other related pat
 - [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
 
 - [Composable Memory Transactions](https://www.microsoft.com/en-us/research/wp-content/uploads/2005/01/2005-ppopp-composable.pdf)
+
+### Databases
+
+These include designs of some popular storage engines. Some even explore unconventional methods of writing bits and pieces of a storage engine.
+
+- [The design of Postgres storage system](https://dsf.berkeley.edu/papers/ERL-M87-06.pdf)
