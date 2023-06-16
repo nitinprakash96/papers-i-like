@@ -7,6 +7,7 @@ This repository is a list of computer science academic papers that I admire and 
 3. [Programming concepts](#programming-concepts)
 4. [Software architecture](#software-architecture)
 5. [Databases](#Databases)
+6. [Miscellaneous](#Miscellaneous)
 
 ### Language paradigm
 
@@ -46,3 +47,7 @@ Some really helpful papers regarding software architecture and other related pat
 These include designs of some popular storage engines. Some even explore unconventional methods of writing bits and pieces of a storage engine.
 
 - [The design of Postgres storage system](https://dsf.berkeley.edu/papers/ERL-M87-06.pdf)
+
+### Miscellaneous
+
+- [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
