@@ -48,6 +48,8 @@ These include designs of some popular storage engines. Some even explore unconve
 
 - [The design of Postgres storage system](https://dsf.berkeley.edu/papers/ERL-M87-06.pdf)
 
+- [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf)
+
 ### Miscellaneous
 
 - [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
