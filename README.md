@@ -34,6 +34,8 @@ This section contains paper that introduced or comprehensively laid down concept
 
 - [Cache-oblivious Algorithms and Data structures](https://erikdemaine.org/papers/BRICS2002/paper.pdf)
 
+- [Applicative programming with effects](https://www.staff.city.ac.uk/~ross/papers/Applicative.pdf)
+
 ### Software architecture
 
 Some really helpful papers regarding software architecture and other related patterns.
