@@ -36,6 +36,9 @@ This section contains paper that introduced or comprehensively laid down concept
 
 - [Applicative programming with effects](https://www.staff.city.ac.uk/~ross/papers/Applicative.pdf)
 
+- [How to make ad-hoc polymorphism less ad hoc](https://www.researchgate.net/profile/Stephen-Blott/publication/2710954_How_to_Make_Ad-Hoc_Polymorphism_Less_Ad_Hoc/links/553e01f20cf2fbfe509b81f8/How-to-Make-Ad-Hoc-Polymorphism-Less-Ad-Hoc.pdf)
+
+
 ### Software architecture
 
 Some really helpful papers regarding software architecture and other related patterns.
@@ -44,6 +47,7 @@ Some really helpful papers regarding software architecture and other related pat
 
 - [Composable Memory Transactions](https://www.microsoft.com/en-us/research/wp-content/uploads/2005/01/2005-ppopp-composable.pdf)
 
+
 ### Databases
 
 These include designs of some popular storage engines. Some even explore unconventional methods of writing bits and pieces of a storage engine.
@@ -51,6 +55,7 @@ These include designs of some popular storage engines. Some even explore unconve
 - [The design of Postgres storage system](https://dsf.berkeley.edu/papers/ERL-M87-06.pdf)
 
 - [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf)
+
 
 ### Miscellaneous
 
