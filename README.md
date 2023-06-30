@@ -21,6 +21,7 @@ Somedays, I just like to understand the ideology behind a language in terms of i
 
 - [A History of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
 
+- [A History of Haskell: Being Lazy With Class](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/history.pdf)
 
 ### Programming concepts
 
