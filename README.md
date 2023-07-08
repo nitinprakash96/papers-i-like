@@ -23,6 +23,8 @@ Somedays, I just like to understand the ideology behind a language in terms of i
 
 - [A History of Haskell: Being Lazy With Class](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/history.pdf)
 
+- [Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I](http://jmc.stanford.edu/articles/recursive/recursive.pdf)
+
 ### Programming concepts
 
 This section contains paper that introduced or comprehensively laid down concepts that programmers use extensively.
