@@ -28,6 +28,7 @@ Somedays, I just like to understand the ideology behind a language in terms of i
 ### Programming concepts
 
 This section contains paper that introduced or comprehensively laid down concepts that programmers use extensively.
+Note: The following list has a lot of functional programming related papers because that's what I code in.
 
 - [Functional Pearl: I am not a Number—I am a Free Variable](https://www.cs.ru.nl/~james/RESEARCH/haskell2004.pdf)
 
@@ -41,6 +42,7 @@ This section contains paper that introduced or comprehensively laid down concept
 
 - [How to make ad-hoc polymorphism less ad hoc](https://www.researchgate.net/profile/Stephen-Blott/publication/2710954_How_to_Make_Ad-Hoc_Polymorphism_Less_Ad_Hoc/links/553e01f20cf2fbfe509b81f8/How-to-Make-Ad-Hoc-Polymorphism-Less-Ad-Hoc.pdf)
 
+- [Type Classes with Functional Dependencies](https://web.cecs.pdx.edu/~mpj/pubs/fundeps-esop2000.pdf)
 
 ### Software architecture
 
