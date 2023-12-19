@@ -13,6 +13,8 @@ This repository is a list of computer science academic papers that I admire and 
 
 - [Why functional programming matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 
+- [Can programming be liberated from the Von Neumann Style?](http://worrydream.com/refs/Backus-CanProgrammingBeLiberated.pdf)
+
 ### Programming languages
 
 Somedays, I just like to understand the ideology behind a language in terms of its design space and compromises it had to be built upon.
