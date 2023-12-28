@@ -54,6 +54,7 @@ Some really helpful papers regarding software architecture and other related pat
 
 - [Composable Memory Transactions](https://www.microsoft.com/en-us/research/wp-content/uploads/2005/01/2005-ppopp-composable.pdf)
 
+- [Towards Scalable Dataframe Systems](https://arxiv.org/pdf/2001.00888.pdf)
 
 ### Databases
 
