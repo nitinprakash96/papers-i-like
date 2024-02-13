@@ -70,3 +70,5 @@ These include designs of some popular storage engines. Some even explore unconve
 - [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 
 - [An Industrial-Strength Audio Search Algorithm](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)
+
+- [A symbolic analysis of Relay and Switching Circuits](https://www.cs.virginia.edu/~evans/greatworks/shannon38.pdf) - This is the start of information theory!
