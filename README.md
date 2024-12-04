@@ -64,6 +64,8 @@ These include designs of some popular storage engines. Some even explore unconve
 
 - [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf)
 
+- [Building a Database on S3](https://people.csail.mit.edu/kraska/pub/sigmod08-s3.pdf)
+
 
 ### Miscellaneous
 
